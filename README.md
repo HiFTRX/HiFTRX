@@ -1,77 +1,21 @@
-💫 About Me:
-Het Thoria
-
-AI & Data Science Engineer · Software Developer · Mumbai, India
-
-I’m a final-year B.Tech student in Artificial Intelligence and Data Science with more than a year of internship experience building production REST APIs, LLM-powered tools and AI agents. I currently work in the QI Department at Zensar Technologies on ZenseAI.AssureAI, an AI assurance platform, and on a tokenomics portal that tracks LLM token usage and cost.
-
-## What I’m working on
-
-- AI assurance tooling that tests, validates and monitors ML, generative AI and agentic AI systems for hallucinations, bias, drift and security risks
-- Deploying AI applications and models on AWS and Microsoft Azure
-- Going deeper into agentic AI, RAG and LLMOps
-
-## Skills
-
-| Area | Tools and topics |
-| — | — |
-| Languages | Python, Java, SQL (PostgreSQL, PL/pgSQL) |
-| Generative AI and agents | LLMs, AI agents, agentic engineering, prompt engineering, RAG, reasoning models (DeepSeek-R1) |
-| LLMOps | Production deployment, performance optimization, token usage and cost tracking |
-| ML and computer vision | Machine learning, deep learning, PyTorch, image classification, image processing, vision-language models, recommendation systems |
-| Backend and APIs | FastAPI, REST APIs, Alembic migrations, role-based access control (RBAC) |
-| Cloud and security | AWS, Microsoft Azure, Azure AI Foundry, Wiz |
-| Databases and tools | PostgreSQL, Git, GitHub, LaTeX |
-
-## Courses and labs
-
-- Agentic Engineering Foundation
-- AI Engineering
-- Introduction to AI Agents
-- Agentic AI Mastery
-- LLMOps for Production: Deployment and Performance Optimization
-- RAG Foundations
-- Introduction to DeepSeek-R1 and Reasoning Models
-- Image Classification with PyTorch Lab: Classifying Microscopic Histopathology Images with PyTorch
-- Computer Vision: Image Processing Essentials - Transforming Visual Data
-
-## Projects
-
-| Project | What it does | Stack |
-| — | — | — |
-| Code Review Agent | Scans source code for rule violations, anti-patterns and security issues, then suggests refactors | Python, AI agents, LLMs |
-| Legacy Code Modernization Engine | Analyzes large legacy codebases and surfaces modernization recommendations | Python, LLMs |
-| AI Toolkit | Multi-tool assistant for PDF editing, automated code review and productivity | Python, LLMs |
-| Image Caption Generator | Generates context-aware captions for social media images | Python, deep learning, vision-language models |
-| Book Recommendation System | Collaborative filtering engine with wishlist and purchase management | Python, machine learning |
-| Job Onboarding App | Recruitment platform for applications, job postings and onboarding | FastAPI, PostgreSQL |
-| Student Database API | REST API for academic records with role-based access control | FastAPI, PostgreSQL |
-
-## Experience
-
-- Zensar Technologies: Intern, QI Department (Jul 2026 to present)
-- Everestek Technosoft Solutions: Software Developer Intern (Jun 2025 to Jun 2026)
-
-## Achievements
-
-- Finalist, Neural Nexus 2026 Hackathon
-- Pre-Finalist, Intel Unnati: Gen AI for GenZ Hackathon
-
-## Get in touch
-
-- LinkedIn: linkedin.com/in/het-thoria-hiftrx
-- Email: hetthoriaofcl@gmail.com
-🌐 Socials:
-[Facebook](https://facebook.com/Het Thoria) Instagram email
-
-💻 Tech Stack:
-C Java HTML5 Python PowerShell AWS Azure Vercel Django JWT Gunicorn Apache Maven Neo4J Supabase Postgres Adobe Acrobat Reader Adobe NumPy scikit-learn PyTorch TensorFlow Pandas Git GitHub GitLab Playwright Swagger Postman Jira Riot Games Steam Unreal Engine Epic Games Xbox
-
-📊 GitHub Stats:
+# 💫 About Me:
+# Het Thoria<br><br>**AI & Data Science Engineer · Software Developer** · Mumbai, India<br><br>I'm a final-year B.Tech student in Artificial Intelligence and Data Science with more than a year of internship experience building production REST APIs, LLM-powered tools and AI agents. I currently work in the QI Department at Zensar Technologies on ZenseAI.AssureAI, an AI assurance platform, and on a tokenomics portal that tracks LLM token usage and cost.<br><br>## What I'm working on<br><br>- AI assurance tooling that tests, validates and monitors ML, generative AI and agentic AI systems for hallucinations, bias, drift and security risks<br>- Deploying AI applications and models on AWS and Microsoft Azure<br>- Going deeper into agentic AI, RAG and LLMOps<br><br>## Skills<br><br>| Area | Tools and topics |<br>| --- | --- |<br>| Languages | Python, Java, SQL (PostgreSQL, PL/pgSQL) |<br>| Generative AI and agents | LLMs, AI agents, agentic engineering, prompt engineering, RAG, reasoning models (DeepSeek-R1) |<br>| LLMOps | Production deployment, performance optimization, token usage and cost tracking |<br>| ML and computer vision | Machine learning, deep learning, PyTorch, image classification, image processing, vision-language models, recommendation systems |<br>| Backend and APIs | FastAPI, REST APIs, Alembic migrations, role-based access control (RBAC) |<br>| Cloud and security | AWS, Microsoft Azure, Azure AI Foundry, Wiz |<br>| Databases and tools | PostgreSQL, Git, GitHub, LaTeX |<br><br>## Courses and labs<br><br>- Agentic Engineering Foundation<br>- AI Engineering<br>- Introduction to AI Agents<br>- Agentic AI Mastery<br>- LLMOps for Production: Deployment and Performance Optimization<br>- RAG Foundations<br>- Introduction to DeepSeek-R1 and Reasoning Models<br>- Image Classification with PyTorch Lab: Classifying Microscopic Histopathology Images with PyTorch<br>- Computer Vision: Image Processing Essentials - Transforming Visual Data<br><br>## Projects<br><br>| Project | What it does | Stack |<br>| --- | --- | --- |<br>| [Code Review Agent](https://github.com/HiFTRX/code-review-agent) | Scans source code for rule violations, anti-patterns and security issues, then suggests refactors | Python, AI agents, LLMs |<br>| [Legacy Code Modernization Engine](https://github.com/HiFTRX/SAKEC-AI-MM-02-Legacy-code-Modernization-Engine) | Analyzes large legacy codebases and surfaces modernization recommendations | Python, LLMs |<br>| AI Toolkit | Multi-tool assistant for PDF editing, automated code review and productivity | Python, LLMs |<br>| Image Caption Generator | Generates context-aware captions for social media images | Python, deep learning, vision-language models |<br>| Book Recommendation System | Collaborative filtering engine with wishlist and purchase management | Python, machine learning |<br>| Job Onboarding App | Recruitment platform for applications, job postings and onboarding | FastAPI, PostgreSQL |<br>| Student Database API | REST API for academic records with role-based access control | FastAPI, PostgreSQL |<br><br>## Experience<br><br>- **Zensar Technologies**: Intern, QI Department (Jul 2026 to present)<br>- **Everestek Technosoft Solutions**: Software Developer Intern (Jun 2025 to Jun 2026)<br><br>## Achievements<br><br>- Finalist, Neural Nexus 2026 Hackathon<br>- Pre-Finalist, Intel Unnati: Gen AI for GenZ Hackathon<br><br>## Get in touch<br><br>- LinkedIn: [linkedin.com/in/het-thoria-hiftrx](https://www.linkedin.com/in/het-thoria-hiftrx/)<br>- Email: [hetthoriaofcl@gmail.com](mailto:hetthoriaofcl@gmail.com)<br>
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Het Thoria) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hetthoria05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hetthoriaofcl@gmail.com) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=HiFTRX&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=HiFTRX&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=HiFTRX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+[![](https://komarev.com/ghpvc/?username=HiFTRX&icon=0&color=0)](https://visitcount.itsvg.in)
 
-✍️ Random Dev Quote
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
